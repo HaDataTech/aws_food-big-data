@@ -4,7 +4,7 @@ As an ML engineer at food.com, you're tasked with building a recipe recommender 
 ## EXPLORATORY DATA ANALYSIS
 Task 1: Read the data <br/>
 - Read RAW_recipes.csv from S3 bucket. <br/>
-- Ensure each field has the correct data type. <br/>
+- Ensure each field has the correct data type.
 Task 2: Extract individual features from the nutrition column. <br/>
 Task 3: Standardize the nutrition values. <br/>
 Task 4: Convert the tags column from a string to an array of strings.<br/>
